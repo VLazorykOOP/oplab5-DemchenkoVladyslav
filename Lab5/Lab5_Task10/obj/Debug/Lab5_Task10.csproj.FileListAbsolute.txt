@@ -1,0 +1,10 @@
+D:\programming\Практика2024\Lab5\Lab5\Lab5_Task10\bin\Debug\Lab5_Task10.exe.config
+D:\programming\Практика2024\Lab5\Lab5\Lab5_Task10\bin\Debug\Lab5_Task10.exe
+D:\programming\Практика2024\Lab5\Lab5\Lab5_Task10\bin\Debug\Lab5_Task10.pdb
+D:\programming\Практика2024\Lab5\Lab5\Lab5_Task10\obj\Debug\Lab5_Task10.csproj.AssemblyReference.cache
+D:\programming\Практика2024\Lab5\Lab5\Lab5_Task10\obj\Debug\Lab5_Task10.Form1.resources
+D:\programming\Практика2024\Lab5\Lab5\Lab5_Task10\obj\Debug\Lab5_Task10.Properties.Resources.resources
+D:\programming\Практика2024\Lab5\Lab5\Lab5_Task10\obj\Debug\Lab5_Task10.csproj.GenerateResource.cache
+D:\programming\Практика2024\Lab5\Lab5\Lab5_Task10\obj\Debug\Lab5_Task10.csproj.CoreCompileInputs.cache
+D:\programming\Практика2024\Lab5\Lab5\Lab5_Task10\obj\Debug\Lab5_Task10.exe
+D:\programming\Практика2024\Lab5\Lab5\Lab5_Task10\obj\Debug\Lab5_Task10.pdb
